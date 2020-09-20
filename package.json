@@ -1,0 +1,21 @@
+{
+  "name": "mailvote",
+  "version": "1.0.0",
+  "description": "mail-in voter registration links for every county",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copyFiles": "mkdir dist && cp -r public/* dist",
+    "build": "npm run copyFiles && node src/index",
+    "build:watch": "NODE_ENV=development npx nodemon -w src/index.js",
+    "serve": "npx browser-sync dist -w --https",
+    "start": "npm run copyFiles && npm run serve & npm run build:watch"
+  },
+  "author": "Andrew Nater",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "nodemon": "^2.0.4"
+  }
+}

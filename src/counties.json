@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Miami-Dade County",
+    "link": "https://miamidade.electionsfl.org/vrservices/mbrs",
+    "fips": "12086"
+  },
+  {
+    "name": "Broward County",
+    "link": "https://www.browardsoe.org/Voting-Methods/Vote-By-Mail-Voting/Absentee-Ballot-Request-Form",
+    "fips": "12011"
+  },
+  {
+    "name": "Palm Beach County",
+    "link": "https://www.pbcelections.org/Voters/Mail-Ballot-Request-Service",
+    "fips": "12099"
+  },
+  {
+    "name": "Hillsborough County",
+    "link": "https://www.votehillsborough.org/VOTERS/Vote-By-Mail-Online-Request",
+    "fips": "12057"
+  },
+  {
+    "name": "Orange County",
+    "link": "https://ocfelections.com/webapps/vbmrequest/votebymailrequest_lookup.aspx",
+    "fips": "12095"
+  },
+  {
+    "name": "Duval County",
+    "link": "https://www.duvalelections.com/Voter-Information/Vote-By-Mail/Electronic-Ballot-Request",
+    "fips": "12031"
+  },
+  {
+    "name": "Pinellas County",
+    "link": "https://www.votepinellas.com/VoteByMail",
+    "fips": "12103"
+  },
+  {
+    "name": "Lee County",
+    "link": "https://www.lee.vote/Vote-by-Mail/Vote-by-Mail-Information/Request-a-Vote-by-Mail-Ballot",
+    "fips": "12071"
+  },
+  {
+    "name": "Polk County",
+    "link": "https://www.polkelections.com/Mail-in-Ballot-Request-Form",
+    "fips": "12105"
+  },
+  {
+    "name": "Brevard County",
+    "link": "https://www.votebrevard.com/Ballots-by-Mail/Request-a-Mail-Ballot",
+    "fips": "12009"
+  },
+  {
+    "name": "Volusia County",
+    "link": "https://volusia.electionsfl.org/vrservices/mbrs",
+    "fips": "12127"
+  },
+  {
+    "name": "Pasco County",
+    "link": "https://www.pascovotes.gov/Vote-by-Mail/Request-a-Ballot-2",
+    "fips": "12101"
+  },
+  {
+    "name": "Seminole County",
+    "link": "https://www.voteseminole.org/vote-by-mail",
+    "fips": "12117"
+  },
+  {
+    "name": "Sarasota County",
+    "link": "https://www.precinctfind.com/ab_status/ab_status_sar.php?op=lookup",
+    "fips": "12115"
+  },
+  {
+    "name": "Marion County",
+    "link": "https://www.votemarion.gov/mbrs",
+    "fips": "12083"
+  },
+  {
+    "name": "Collier County",
+    "link": "https://www.colliervotes.com/Vote-by-Mail/Vote-by-Mail-Ballot-Request-Form",
+    "fips": "12021"
+  },
+  {
+    "name": "Manatee County",
+    "link": "https://www.votemanatee.com/Vote-By-Mail-Early-Voting/Vote-By-Mail-Ballot-Request-Online",
+    "fips": "12081"
+  },
+  {
+    "name": "Lake County",
+    "link": "https://www.lakecountyil.gov/351/Voter-Power-for-Registered-Voters",
+    "fips": "12069"
+  },
+  {
+    "name": "Escambia County",
+    "link": "https://escambia.electionsfl.org/vrservices/mbrs",
+    "fips": "12033"
+  },
+  { "name": "St. Lucie County", "link": "", "fips": "12111" },
+  { "name": "Leon County", "link": "", "fips": "12073" },
+  { "name": "Osceola County", "link": "", "fips": "12097" },
+  { "name": "Alachua County", "link": "", "fips": "12001" },
+  { "name": "St. Johns County", "link": "", "fips": "12109" },
+  { "name": "Clay County", "link": "", "fips": "12019" },
+  { "name": "Okaloosa County", "link": "", "fips": "12091" },
+  { "name": "Hernando County", "link": "", "fips": "12053" },
+  { "name": "Bay County", "link": "", "fips": "12005" },
+  { "name": "Charlotte County", "link": "", "fips": "12015" },
+  { "name": "Santa Rosa County", "link": "", "fips": "12113" },
+  { "name": "Martin County", "link": "", "fips": "12085" },
+  { "name": "Citrus County", "link": "", "fips": "12017" },
+  { "name": "Indian River County", "link": "", "fips": "12061" },
+  { "name": "Highlands County", "link": "", "fips": "12055" },
+  { "name": "Sumter County", "link": "", "fips": "12119" },
+  { "name": "Flagler County", "link": "", "fips": "12035" },
+  { "name": "Nassau County", "link": "", "fips": "12089" },
+  { "name": "Putnam County", "link": "", "fips": "12107" },
+  { "name": "Monroe County", "link": "", "fips": "12087" },
+  { "name": "Columbia County", "link": "", "fips": "12023" },
+  { "name": "Walton County", "link": "", "fips": "12131" },
+  { "name": "Jackson County", "link": "", "fips": "12063" },
+  { "name": "Gadsden County", "link": "", "fips": "12039" },
+  { "name": "Suwannee County", "link": "", "fips": "12121" },
+  { "name": "Levy County", "link": "", "fips": "12075" },
+  { "name": "Okeechobee County", "link": "", "fips": "12093" },
+  { "name": "Hendry County", "link": "", "fips": "12051" },
+  { "name": "DeSoto County", "link": "", "fips": "12027" },
+  { "name": "Wakulla County", "link": "", "fips": "12129" },
+  { "name": "Bradford County", "link": "", "fips": "12007" },
+  { "name": "Hardee County", "link": "", "fips": "12049" },
+  { "name": "Baker County", "link": "", "fips": "12003" },
+  { "name": "Washington County", "link": "", "fips": "12133" },
+  { "name": "Taylor County", "link": "", "fips": "12123" },
+  { "name": "Holmes County", "link": "", "fips": "12059" },
+  { "name": "Madison County", "link": "", "fips": "12079" },
+  { "name": "Gilchrist County", "link": "", "fips": "12041" },
+  { "name": "Dixie County", "link": "", "fips": "12029" },
+  { "name": "Gulf County", "link": "", "fips": "12045" },
+  { "name": "Union County", "link": "", "fips": "12125" },
+  { "name": "Calhoun County", "link": "", "fips": "12013" },
+  { "name": "Hamilton County", "link": "", "fips": "12047" },
+  { "name": "Jefferson County", "link": "", "fips": "12065" },
+  { "name": "Glades County", "link": "", "fips": "12043" },
+  { "name": "Franklin County", "link": "", "fips": "12037" },
+  { "name": "Lafayette County", "link": "", "fips": "12067" },
+  { "name": "Liberty County", "link": "", "fips": "12077" }
+]
